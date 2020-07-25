@@ -1,4 +1,14 @@
 ---
 label: Blog Post
 hide_body: false
-fields: []
+fields:
+- name: sdfsdfdssdaf
+  type: text
+  config:
+    required: false
+  label: sdfsdfdssdaf
+- name: asdfsdfdsf
+  type: text
+  config:
+    required: false
+  label: asdfsdfdsf
